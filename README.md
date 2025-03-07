@@ -1,3 +1,10 @@
-# Non-Deterministic-Finite-Automaton-NFA-Simulation
-A NFA that reads an input file containing the states, symbols, start state, transitions and final states.
-It then determines results to an output file fro each word.
+# For Input:
+    Number of states
+    States (Int)
+    Number of symbols
+    Symbols (Char)
+    The start state 
+    Number of final states 
+    A list of final states
+    Number of transitions
+    A set of transitions (state, input character → next state) (Int -> Char -> Int)
