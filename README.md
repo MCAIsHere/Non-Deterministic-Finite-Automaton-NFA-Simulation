@@ -7,4 +7,4 @@
     Number of final states 
     A list of final states
     Number of transitions
-    A set of transitions (state, input character → next state) (Int -> Char -> Int)
+    A set of transitions (state, Symbol, next state) (Int, Char, Int)
